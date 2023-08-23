@@ -15,11 +15,11 @@ pip install biopython
 
 ## Usage
 
-1. Clone this repository or download the `protein_alignment.py` script.
+1. Clone this repository or download the `substitution_matrix_scheme.py` script.
 
 2. Open a terminal or command prompt.
 
-3. Navigate to the directory containing the `protein_alignment.py` script.
+3. Navigate to the directory containing the `substitution_matrix_scheme.py` script.
 
 4. Run the script using the following command:
 
